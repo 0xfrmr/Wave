@@ -1,16 +1,11 @@
 import requests
 import questionary
-import webbrowser
 import os
 import subprocess
 
 
-
 movies_Baselink = "https://yts.mx/api/v2/list_movies.json"
 filters= {'sort':'seeds','order' : 'desc', 'limit':'50'}
-torrent_path = os.path.abspath("movie.torrent")
-
-
 
 def search(query) :
     filters['query_term'] = query
