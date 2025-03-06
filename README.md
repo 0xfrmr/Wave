@@ -17,6 +17,6 @@ Movies :clapper: torrent automatic downloader to make ur life _easy peasy_ !
 ### Usage guide
 
 1. Install the tool.
-2. run the command `wave`.
+2. run the command `wave -s` if u want a series or `-m` if it's a movie .
 3. follow instructions.
 6. Congrats !! all you have to do is start the download in ur Bittorent client.
