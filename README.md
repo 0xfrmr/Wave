@@ -1,6 +1,6 @@
 # Wave 🌊
 
-Movies :clapper: torrent automatic downloader to make ur life _easy peasy_ !
+Movies/Series :clapper: torrent automatic downloader to make ur life _easy peasy_ !
 
 ### Installation
 
