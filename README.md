@@ -4,8 +4,8 @@ Movies/Series :clapper: torrent automatic downloader to make ur life _easy peasy
 
 ### Installation
 
-`pip install git+https://github.com/0xfrmr/Wave.git`
-or `pip install --upgrade git+https://github.com/0xfrmr/Wave.git` for updates.
+- `pip install git+https://github.com/0xfrmr/Wave.git`
+- or `pip install --upgrade git+https://github.com/0xfrmr/Wave.git` for updates.
 
 ### Dependencies
 
